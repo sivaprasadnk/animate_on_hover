@@ -2,6 +2,11 @@
 
 Animate widgets on web when hovered using this package.
 
+## Screenshot
+
+![screen](https://user-images.githubusercontent.com/75713903/233435577-38a0a6a3-fba2-4557-a02f-3de96b274d62.gif)
+
+
 ## Getting started
 
 Add this to your package's `pubspec.yaml` file
