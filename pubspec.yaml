@@ -1,0 +1,19 @@
+name: animate_on_hover
+description: Animate widgets on web when hovered using this package.
+version: 1.0.0
+homepage: https://github.com/sivaprasadnk/animate_on_hover
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
