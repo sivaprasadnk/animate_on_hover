@@ -1,6 +1,6 @@
 name: animate_on_hover
-description: Animate widgets on web when hovered using this package.
-version: 1.0.0
+description: Add animation(s) to your widgets on web when hovered, using this package.
+version: 1.0.2
 homepage: https://github.com/sivaprasadnk/animate_on_hover
 
 environment:

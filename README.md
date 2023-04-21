@@ -1,6 +1,6 @@
 ## Animate on Hover
 
-Animate widgets on web when hovered using this package.
+Add animation(s) to your widgets on web when hovered, using this package.
 
 ## Screenshot
 
@@ -13,16 +13,20 @@ Add this to your package's `pubspec.yaml` file
 
 ```yaml
 dependencies:
-  animate_on_hover: ^1.0.0
+  animate_on_hover: ^1.0.2
 ```
+
 
 ## Usage
 
-Next, you just have to import the package using:
+Next, you have to import the package using:
 
 ```dart
 import 'package:animate_on_hover/animate_on_hover.dart';
 ```
+
+Then, add increaseSizeOnHover() method with value of the scale-factor as argument to your widget:
+
 
 ```dart
   Widget build(BuildContext context) {
